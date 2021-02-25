@@ -1,0 +1,9 @@
+{
+    "name": "lightbulblighter/dababy",
+    "description": "",
+    "type": "library",
+    "license": "UNLICENSE",
+    "require": {
+        "paragonie/corner": "^2.0"
+    }
+}
